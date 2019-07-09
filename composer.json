@@ -1,0 +1,14 @@
+{
+    "name": "rupalipshinde/template-with-localization",
+    "description": "The laravel package for template with localization",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rupali Shinde",
+            "email": "rups.mahajan1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
