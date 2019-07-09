@@ -9,6 +9,18 @@
             "email": "rups.mahajan1@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "templateWithLocalization\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "templateWithLocalization\\TemplateWithLocalizationServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
